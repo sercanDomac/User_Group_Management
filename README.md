@@ -8,12 +8,12 @@ Bu script, Ubuntu üzerinde kullanıcıları ve grupları yönetmek için kullan
 
 1. Make the script executable / Scripti çalıştırılabilir hale getirin:
     ```sh
-    chmod +x kullanici_grup_yonetimi.sh
+    chmod +x user_group_management.sh
     ```
 
 2. Run the script / Scripti çalıştırın:
     ```sh
-    ./kullanici_grup_yonetimi.sh
+    ./user_group_management.sh
     ```
 
 ## Features / Özellikler
